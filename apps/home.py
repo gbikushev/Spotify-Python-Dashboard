@@ -36,7 +36,7 @@ layout = html.Div([
         ]),
         dbc.Row([
             # 2 columns of width 6 with a border
-            dbc.Col(dbc.Card(children=[html.H3(children='Go to the Kaggle to get the original datset',
+            dbc.Col(dbc.Card(children=[html.H3(children='Go to the Kaggle to get the original dataset',
                                                className="text-center",
                                                style={'color': '#1ed760','fontWeight': 'bold'}),
                                        dbc.Button("Kaggle",
