@@ -6,10 +6,10 @@ from dash.dependencies import Input, Output, State
 import dash_bootstrap_components as dbc
 
 from app import app
-from app import server
 # import all pages in the app
 from apps import US, IN, IE, home
 
+server = app.server
 
 # building the navigation bar
 # https://github.com/facultyai/dash-bootstrap-components/blob/master/examples/advanced-component-usage/Navbars.py
