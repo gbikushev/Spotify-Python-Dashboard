@@ -1,0 +1,7 @@
+.custom-slider .rc-slider-track {
+    background-color: green !important;
+}
+
+.custom-slider .rc-slider-handle {
+    border-color: green !important;
+}
