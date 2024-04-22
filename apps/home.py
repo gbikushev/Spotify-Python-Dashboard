@@ -51,7 +51,7 @@ layout = html.Div([
                                                className="text-center",
                                                style={'color': '#1ed760','fontWeight': 'bold'}),
                                        dbc.Button("GitHub",
-                                                  href="https://github.com/JackLinusMcDonnell/DashAppTeaching",
+                                                  href="https://github.com/gbikushev/Spotify-Python-Dashboard",
                                                   color="primary",
                                                   className="mt-3"),
                                        ],
