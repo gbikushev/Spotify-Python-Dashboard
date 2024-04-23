@@ -21,7 +21,7 @@ This dashboard presents an interactive visualization aimed at music industry sta
 
 ## Data source and brief description of data.
 ### Data description:
-Dataset was taken from Kaggle (Top Spotify Songs in 73 Countries (Daily Updated) (kaggle.com)). The following columns were used within this project for building interactive visualizations:
+Dataset was taken from Kaggle (https://www.kaggle.com/datasets/asaniczka/top-spotify-songs-in-73-countries-daily-updated/data). The following columns were used within this project for building interactive visualizations:
 - name: The title of the song. (type: str)
 - artists: The name(s) of the artist(s) associated with the song. (type: str)
 - daily_rank: The daily rank of the song in the top 50 list. (type: int)
